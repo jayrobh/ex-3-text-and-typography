@@ -1,7 +1,14 @@
 html{
     background-color:bisque;
+    font-size: x-large;
+    color:coral;
 }
 .art324{
     color:crimson;
     font-size:xx-large;
+    font-family: "Arimo", sans-serif; 
+
+}
+.info{
+    text-align: right;
 }
