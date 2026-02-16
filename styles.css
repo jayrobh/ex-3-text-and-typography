@@ -1,13 +1,15 @@
 html{
     background-color:bisque;
-    font-size: x-large;
+    font-size:large;
     color:coral;
 }
 .art324{
     color:crimson;
     font-size:xx-large;
     font-family: "Arimo", sans-serif; 
-
+}
+.figma{
+    line-height:0%;
 }
 .info{
     text-align: right;
